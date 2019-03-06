@@ -1,0 +1,32 @@
+D:\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe.config
+D:\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe
+D:\Umaru AI\Umaru AI\bin\Debug\Umaru AI.pdb
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csprojResolveAssemblyReference.cache
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Properties.Resources.resources
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csproj.GenerateResource.Cache
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.exe
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.pdb
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.HangoutChat.resources
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Main.resources
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe.config
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru AI.exe
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru AI.pdb
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\bin\Debug\Umaru AI.pdb
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csprojResolveAssemblyReference.cache
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.HangoutChat.resources
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Main.resources
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Properties.Resources.resources
+C:\Users\Kong\Desktop\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csproj.GenerateResource.Cache
+C:\Users\bungk_000\Desktop\14-10-04\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe.config
+C:\Users\bungk_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru AI.exe
+C:\Users\bungk_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru AI.pdb
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru AI.exe
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru AI.pdb
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\bin\Debug\Umaru AI.pdb
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csprojResolveAssemblyReference.cache
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.HangoutChat.resources
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Main.resources
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Properties.Resources.resources
+C:\Users\bokee_000\Desktop\14-10-04\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csproj.GenerateResource.Cache

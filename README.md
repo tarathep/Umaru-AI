@@ -4,7 +4,7 @@ This is project student learning programming .net framework by C#.NET windows fo
 ### Example
 <img src="https://raw.githubusercontent.com/tarathep/Umaru-AI/master/ref.jpg" width="30%">
 
-### Fetures
+### Features
 - Chat : self leaning by infomation from user input process.
 - Note : notepad text
 - Hangout : talk bot connect with google hangout (now deprecated)
